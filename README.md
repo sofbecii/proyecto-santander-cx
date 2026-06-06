@@ -105,9 +105,9 @@ Age & Income           ██                    < 0.05  ← Demographics barely
 
 | Archetype | n | Churn Risk | Profile |
 |:----------|:-:|:----------:|:--------|
-| 🔴 **Hybrid Demanding** | 73 | **74%** | Highest fintech awareness + app frustrations. Uses both traditional banking and fintech simultaneously. Actively compares. Concentrates **36% of projected churn** in 24% of the base. |
-| 🟡 **Young Mainstream** | 117 | 44% | Loyal but fintech-curious. Has touched one alternative. Window to build digital habit is open — and closing. |
-| 🟢 **Established Adult** | 110 | 40% | High income, low friction, multi-app. Lowest risk but highest cost to replace if lost. |
+|  **Hybrid Demanding** | 73 | **74%** | Highest fintech awareness + app frustrations. Uses both traditional banking and fintech simultaneously. Actively compares. Concentrates **36% of projected churn** in 24% of the base. |
+|  **Young Mainstream** | 117 | 44% | Loyal but fintech-curious. Has touched one alternative. Window to build digital habit is open — and closing. |
+|  **Established Adult** | 110 | 40% | High income, low friction, multi-app. Lowest risk but highest cost to replace if lost. |
 
 ---
 
